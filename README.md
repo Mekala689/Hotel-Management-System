@@ -57,3 +57,13 @@ Optional: Java Swing/JavaFX for GUI
 
 
 6. Reports → View hostel status at a glance.
+
+7. **Future Enhancements**
+
+Online payment gateway for fees.
+
+Automated room assignment with preferences.
+
+Mobile app version for students and wardens.
+
+Notification/alert system for pending dues and updates.
