@@ -1,5 +1,5 @@
 # Hotel-Management-System
-**Overview**
+
 The Hostel Management System is a Java-based project designed to simplify and automate hostel administration. It replaces manual record-keeping methods with a digital solution that manages student registration, room allocation, fee management, and complaint handling efficiently.
 
 This project is developed with Object-Oriented Programming (OOP) principles and integrates with a database (MySQL via JDBC or file handling). It is suitable for academic learning, portfolio building, and placement preparation, as it demonstrates Java skills with practical application.
