@@ -58,7 +58,7 @@ Optional: Java Swing/JavaFX for GUI
 
 6. Reports → View hostel status at a glance.
 
-7. **Future Enhancements**
+ **Future Enhancements**
 
 Online payment gateway for fees.
 
